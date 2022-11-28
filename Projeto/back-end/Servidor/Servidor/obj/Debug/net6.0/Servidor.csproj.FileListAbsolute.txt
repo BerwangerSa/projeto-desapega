@@ -1,0 +1,100 @@
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\obj\Debug\net6.0\Servidor.csproj.AssemblyReference.cache
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\obj\Debug\net6.0\Servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\obj\Debug\net6.0\Servidor.AssemblyInfoInputs.cache
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\obj\Debug\net6.0\Servidor.AssemblyInfo.cs
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\obj\Debug\net6.0\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\obj\Debug\net6.0\Servidor.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\obj\Debug\net6.0\Servidor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\bin\Debug\net6.0\appsettings.json
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\bin\Debug\net6.0\Servidor.exe
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\bin\Debug\net6.0\Servidor.deps.json
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\bin\Debug\net6.0\Servidor.runtimeconfig.json
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\bin\Debug\net6.0\Servidor.dll
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\bin\Debug\net6.0\Servidor.pdb
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\bin\Debug\net6.0\Humanizer.dll
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\bin\Debug\net6.0\Npgsql.dll
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\obj\Debug\net6.0\scopedcss\bundle\Servidor.styles.css
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\obj\Debug\net6.0\Servidor.csproj.CopyComplete
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\obj\Debug\net6.0\Servidor.dll
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\obj\Debug\net6.0\refint\Servidor.dll
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\obj\Debug\net6.0\Servidor.pdb
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\obj\Debug\net6.0\Servidor.genruntimeconfig.cache
+C:\Users\rmnascimento\OneDrive - BERNHOEFT CONTADORES ASSOCIADOS LTDA\Documentos\Projeto\back-end\Servidor\servidor\obj\Debug\net6.0\ref\Servidor.dll
+C:\Projeto\back-end\Servidor\Servidor\bin\Debug\net6.0\appsettings.Development.json
+C:\Projeto\back-end\Servidor\Servidor\bin\Debug\net6.0\appsettings.json
+C:\Projeto\back-end\Servidor\Servidor\bin\Debug\net6.0\Servidor.exe
+C:\Projeto\back-end\Servidor\Servidor\bin\Debug\net6.0\Servidor.deps.json
+C:\Projeto\back-end\Servidor\Servidor\bin\Debug\net6.0\Servidor.runtimeconfig.json
+C:\Projeto\back-end\Servidor\Servidor\bin\Debug\net6.0\Servidor.dll
+C:\Projeto\back-end\Servidor\Servidor\bin\Debug\net6.0\Servidor.pdb
+C:\Projeto\back-end\Servidor\Servidor\bin\Debug\net6.0\Castle.Core.dll
+C:\Projeto\back-end\Servidor\Servidor\bin\Debug\net6.0\Humanizer.dll
+C:\Projeto\back-end\Servidor\Servidor\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Projeto\back-end\Servidor\Servidor\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Projeto\back-end\Servidor\Servidor\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projeto\back-end\Servidor\Servidor\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projeto\back-end\Servidor\Servidor\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Projeto\back-end\Servidor\Servidor\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projeto\back-end\Servidor\Servidor\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Projeto\back-end\Servidor\Servidor\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Projeto\back-end\Servidor\Servidor\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projeto\back-end\Servidor\Servidor\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Projeto\back-end\Servidor\Servidor\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projeto\back-end\Servidor\Servidor\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projeto\back-end\Servidor\Servidor\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projeto\back-end\Servidor\Servidor\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Projeto\back-end\Servidor\Servidor\bin\Debug\net6.0\Npgsql.dll
+C:\Projeto\back-end\Servidor\Servidor\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Projeto\back-end\Servidor\Servidor\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projeto\back-end\Servidor\Servidor\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projeto\back-end\Servidor\Servidor\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projeto\back-end\Servidor\Servidor\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projeto\back-end\Servidor\Servidor\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Projeto\back-end\Servidor\Servidor\obj\Debug\net6.0\Servidor.csproj.AssemblyReference.cache
+C:\Projeto\back-end\Servidor\Servidor\obj\Debug\net6.0\Servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto\back-end\Servidor\Servidor\obj\Debug\net6.0\Servidor.AssemblyInfoInputs.cache
+C:\Projeto\back-end\Servidor\Servidor\obj\Debug\net6.0\Servidor.AssemblyInfo.cs
+C:\Projeto\back-end\Servidor\Servidor\obj\Debug\net6.0\Servidor.csproj.CoreCompileInputs.cache
+C:\Projeto\back-end\Servidor\Servidor\obj\Debug\net6.0\Servidor.MvcApplicationPartsAssemblyInfo.cs
+C:\Projeto\back-end\Servidor\Servidor\obj\Debug\net6.0\Servidor.MvcApplicationPartsAssemblyInfo.cache
+C:\Projeto\back-end\Servidor\Servidor\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projeto\back-end\Servidor\Servidor\obj\Debug\net6.0\staticwebassets.development.json
+C:\Projeto\back-end\Servidor\Servidor\obj\Debug\net6.0\scopedcss\bundle\Servidor.styles.css
+C:\Projeto\back-end\Servidor\Servidor\obj\Debug\net6.0\Servidor.csproj.CopyComplete
+C:\Projeto\back-end\Servidor\Servidor\obj\Debug\net6.0\Servidor.dll
+C:\Projeto\back-end\Servidor\Servidor\obj\Debug\net6.0\refint\Servidor.dll
+C:\Projeto\back-end\Servidor\Servidor\obj\Debug\net6.0\Servidor.pdb
+C:\Projeto\back-end\Servidor\Servidor\obj\Debug\net6.0\Servidor.genruntimeconfig.cache
+C:\Projeto\back-end\Servidor\Servidor\obj\Debug\net6.0\ref\Servidor.dll
+C:\Projeto\back-end\Servidor\servidor\obj\Debug\net6.0\staticwebassets\msbuild.Servidor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projeto\back-end\Servidor\servidor\obj\Debug\net6.0\staticwebassets\msbuild.build.Servidor.props
+C:\Projeto\back-end\Servidor\servidor\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Servidor.props
+C:\Projeto\back-end\Servidor\servidor\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Servidor.props
+C:\Projeto\back-end\Servidor\servidor\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Projeto\back-end\Servidor\Servidor\bin\Debug\net6.0\MailKit.dll
+C:\Projeto\back-end\Servidor\Servidor\bin\Debug\net6.0\MimeKit.dll
+C:\Projeto\back-end\Servidor\Servidor\bin\Debug\net6.0\BouncyCastle.Crypto.dll
